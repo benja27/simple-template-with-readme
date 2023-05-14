@@ -100,8 +100,8 @@ Now you can go and play with it as you wish :smile:
 
 👤 **mpa-mxiang**
 
-- GitHub: [@mpa-mxiang](https://github.com/mpa-mxiang/)
-- LinkedIn: [Jiachun (Lily) Xiang](https://www.linkedin.com/in/jiachunlilyxiang/)
+- GitHub: [benja27](https://github.com/benja27)
+- LinkedIn: [Benja28](www.linkedin.com/in/mariano-benjamin-mendez-garcia-a50856177)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
